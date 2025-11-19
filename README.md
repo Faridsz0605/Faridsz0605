@@ -1,26 +1,82 @@
-# Hi, my name is [Farid Sayago](https://www.linkedin.com/in/faridsayago)
+<h1 align="center">DATA ANALYST INTERN</h1>
 
-### Economist | Data Analyst Intern | Aspiring Data Scientist
+<h3 align="center"><em>Building insights from real data.</em></h3>
 
----
+<p align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/STUDENT%2520AT-PLATZI-98CA3F%3Fstyle%3Dfor-the-badge%26logo%3Dplatzi%26logoColor%3Dwhite" alt="Platzi Student Badge" />
+</p>
 
-## About Me
+👨‍💻 About Me
 
-I'm an economist transitioning into Data Science, currently working as a Data Analyst Intern at IXConercio seccional XCB. My background in Economics provides me with a distinct advantage: the ability to bridge analytical rigor with strategic business insight. I specialize in translating complex datasets into actionable intelligence that drives decision-making. By combining econometric thinking with modern data science tools, I help organizations uncover patterns, optimize processes, and solve real-world problems with precision.
+I am a Data Analyst passionate about machine learning and the world of data. My journey is defined by a transition from operational complexity to analytical clarity. Currently im deep diving into data world finishing my internship @IXComercio as a data analyst querying OLAP cubes, conducting EDAs on python and performing ETLs as my daily, passionate about learning and never quiting education.
 
----
+<p align="center">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/faridsayago" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://www.google.com/search?q=https://github.com/Faridsz0605" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PORTFOLIO-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://twitter.com/TU_USUARIO" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CONTACT-333333%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="Contact" />
+</a>
+</p>
 
-## Current Focus & Tech Stack
+🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p align="left">
+<!-- Python Ecosystem -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PYTHON-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PANDAS-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NUMPY-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" />
 
-Currently deepening my expertise in relational databases and statistical programming to build scalable, data-driven solutions.
+<br />
 
----
+<!-- Infrastructure & AI -->
 
-## Beyond the Code
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/DOCKER-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/AI-ETHICAL_PROMPT_ENG-black%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" />
 
+<br />
+
+<!-- Learning Status -->
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LOADING...-TENSORFLOW-FF6F00%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" />
+</p>
+
+📊 Featured Projects
+
+Project Name
+
+Description
+
+Tech Used
+
+Source
+
+Churn Rate Predictor
+
+A predictive model designed to identify at-risk customers for a SaaS platform, achieving 85% accuracy using historical usage data.
+
+Python Scikit-learn Pandas
+
+Explore
+
+Retail Sales Dashboard
+
+An automated ETL pipeline that feeds a live dashboard for inventory management, reducing reporting time by 40%.
+
+SQL PowerBI Python
+
+Explore
+
+<p align="center">
+<small>
+<a href="https://twitter.com/TU_USUARIO">Twitter (X)</a> •
+<a href="#">Visit my Web Portfolio</a>
+</small>
+<br />
+<small><em>"Data beats opinion."</em></small>
+</p>
