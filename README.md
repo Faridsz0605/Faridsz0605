@@ -1,258 +1,429 @@
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░ FARID SAYAGO ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:30363d&amp;height=200&amp;section=header&amp;text=FARID%20SAYAGO&amp;fontSize=50&amp;fontColor=58a6ff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Data%20Analyst%20|%20ML%20Enthusiast%20|%20Linux%20%26%20Cybersec&amp;descSize=16&amp;descAlignY=55&amp;descAlign=50" width="100%" alt="Header"/>
+<!-- Terminal Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0d1117&amp;height=1&amp;section=header" width="100%" alt=""/>
 
-<br>
 
-<!-- Typing Animation -->
+
+```
+██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+█▌                                                                                                                                              ▐█
+█▌                                                                                                                                              ▐█
+█▌                                                                                                                                              ▐█
+█▌        ▄████████    ▄████████    ▄████████  ▄█  ████████▄          ▄████████    ▄████████ ▄██   ▄      ▄████████    ▄██████▄   ▄██████▄      ▐█
+█▌       ███    ███   ███    ███   ███    ███ ███  ███   ▀███        ███    ███   ███    ███ ███   ██▄   ███    ███   ███    ███ ███    ███     ▐█
+█▌       ███    █▀    ███    ███   ███    ███ ███▌ ███    ███        ███    █▀    ███    ███ ███▄▄▄███   ███    ███   ███    █▀  ███    ███     ▐█
+█▌      ▄███▄▄▄       ███    ███  ▄███▄▄▄▄██▀ ███▌ ███    ███        ███          ███    ███ ▀▀▀▀▀▀███   ███    ███  ▄███        ███    ███     ▐█
+█▌     ▀▀███▀▀▀     ▀███████████ ▀▀███▀▀▀▀▀   ███▌ ███    ███      ▀███████████ ▀███████████ ▄██   ███ ▀███████████ ▀▀███ ████▄  ███    ███     ▐█
+█▌       ███          ███    ███ ▀███████████ ███  ███    ███               ███   ███    ███ ███   ███   ███    ███   ███    ███ ███    ███     ▐█
+█▌       ███          ███    ███   ███    ███ ███  ███   ▄███         ▄█    ███   ███    ███ ███   ███   ███    ███   ███    ███ ███    ███     ▐█
+█▌       ███          ███    █▀    ███    ███ █▀   ████████▀        ▄████████▀    ███    █▀   ▀█████▀    ███    █▀    ████████▀   ▀██████▀      ▐█
+█▌                                 ███    ███                                                                                                   ▐█
+█▌                                                                                                                                              ▐█
+█▌                                                                                                                                              ▐█
+█▌                                                                                                                                              ▐█
+██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+```
+
+
+<!-- Animated Terminal Prompt -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=%E2%9C%A8+Turning+data+into+actionable+insights;%F0%9F%93%8A+Building+dashboards+that+tell+stories;%F0%9F%A4%96+Exploring+the+frontiers+of+ML;%F0%9F%90%A7+Linux+%2B+Python+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=80&amp;lines=%24+./analyze_data.py+--transform+--insights;%24+SELECT+*+FROM+knowledge+WHERE+value+%3D+'infinite'%3B;%24+sudo+pacman+-S+machine-learning+%26%26+echo+'Ready'" alt="Terminal Typing"/>
 </a>
 
 <br>
 
-<!-- Quote -->
-<em>"No one is replaceable — but those who leverage data lead the way."</em>
+<!-- Status Badges -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-58a6ff?style=flat-square&amp;labelColor=0d1117" alt="Status"/>
+<img src="https://img.shields.io/badge/ROLE-DATA__ANALYST-58a6ff?style=flat-square&amp;labelColor=0d1117" alt="Role"/>
+<img src="https://img.shields.io/badge/LOCATION-IXComercio-58a6ff?style=flat-square&amp;labelColor=0d1117" alt="Location"/>
 
 <br><br>
 
-<!-- Social Badges -->
+<!-- Social Links - Terminal Style -->
 <a href="https://www.linkedin.com/in/faridsayago/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-%2Fin%2Ffaridsayago-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=58a6ff" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Faridsz0605">
-  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/-Faridsz0605-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=58a6ff" alt="GitHub"/>
 </a>
 <a href="https://x.com/farids0805">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X/Twitter"/>
+  <img src="https://img.shields.io/badge/-@farids0805-0d1117?style=for-the-badge&amp;logo=x&amp;logoColor=58a6ff" alt="X"/>
 </a>
 <a href="mailto:tu-email@ejemplo.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&amp;logo=protonmail&amp;logoColor=58a6ff" alt="Email"/>
 </a>
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```yaml
-name: Farid Sayago
-role: Data Analyst Intern @ IXComercio
-location: 🌎
-
-current_focus:
-  - 📊 Querying OLAP cubes for business intelligence
-  - 🔍 Conducting Exploratory Data Analysis (EDA) with Python
-  - ⚙️ Building & automating ETL pipelines
-  - 📈 Creating interactive dashboards & reports
-
-interests:
-  - 🐧 Linux & Open Source
-  - 🔐 Cybersecurity
-  - 🤖 Artificial Intelligence & Machine Learning
-  - 📉 Data Visualization & Storytelling
-
-philosophy: "Data beats opinion — always."
-status: "Never stop learning 📚"
-```
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Business_Intelligence-58a6ff?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Currently-Open_to_Opportunities-2ea44f?style=flat-square" alt="Status"/>
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Languages & Core Tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"/>
-
-### 📊 Data Science & ML
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit Learn"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&amp;logo=scipy&amp;logoColor=white" alt="SciPy"/>
-
-### 📈 Visualization & BI
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&amp;logoColor=white" alt="Seaborn"/>
-
-### 🗄️ Databases & Storage
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server"/>
-
-### 🐧 OS & Environment
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter"/>
-
-### 🔄 Currently Learning
-<img src="https://img.shields.io/badge/📚_Learning-TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/📚_Exploring-Deep_Learning-764ABC?style=for-the-badge" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/📚_Studying-Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
-
-</div>
-
----
-
-## 📊 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🔧 Tech Stack | 🔗 Link |
-|:----------:|:---------------|:-------------:|:-------:|
-| **🔮 Churn Predictor** | Predictive model to identify at-risk customers for SaaS platforms. Achieved **85% accuracy** using historical usage data and feature engineering. | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-Sklearn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="Sklearn"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/> | <a href="https://github.com/Faridsz0605"><img src="https://img.shields.io/badge/View-181717?style=flat-square&amp;logo=github" alt="View"/></a> |
-| **📈 Retail Dashboard** | Automated ETL pipeline feeding a live inventory dashboard. Reduced reporting time by **40%** and improved decision-making speed. | <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" alt="PowerBI"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/> | <a href="https://github.com/Faridsz0605"><img src="https://img.shields.io/badge/View-181717?style=flat-square&amp;logo=github" alt="View"/></a> |
-| **🧹 Data Quality Tool** | Python scripts for automated data validation, cleaning, and profiling of enterprise datasets. | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/> | <a href="https://github.com/Faridsz0605"><img src="https://img.shields.io/badge/View-181717?style=flat-square&amp;logo=github" alt="View"/></a> |
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Faridsz0605">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faridsz0605&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;rank_icon=github" alt="GitHub Stats" height="180"/>
-</a>
-<a href="https://github.com/Faridsz0605">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faridsz0605&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=8" alt="Top Languages" height="180"/>
-</a>
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <br>
 
-<!-- GitHub Streak -->
-<a href="https://github.com/Faridsz0605">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faridsz0605&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=58a6ff" alt="GitHub Streak" />
-</a>
+<h2><samp>⟩ ~/about_me</samp></h2>
 
-</div>
+<table>
+<tr>
+<td width="60%">
 
----
+```yaml
+# ══════════════════════════════════════════
+# ~/.config/farid/profile.yml
+# ══════════════════════════════════════════
 
-## 🎓 Certifications & Learning Path
+user:
+  name: "Farid Sayago"
+  title: "Data Analyst Intern"
+  company: "IXComercio"
+  
+current_tasks:
+  - "Querying OLAP cubes for BI insights"
+  - "Conducting EDA with Python & Pandas"
+  - "Building automated ETL pipelines"
+  - "Designing interactive dashboards"
+
+interests:
+  primary:
+    - "🐧 Linux & Open Source"
+    - "🔐 Cybersecurity"
+    - "🤖 Machine Learning"
+  secondary:
+    - "📊 Data Visualization"
+    - "⚡ Process Automation"
+
+philosophy: "Data > Opinion"
+status: "Always learning..."
+```
+
+</td>
+<td width="40%" align="center">
+
+<br>
+
+```
+   ┌──────────────────────┐
+   │   SYSTEM METRICS     │
+   ├──────────────────────┤
+   │                      │
+   │  ▓▓▓▓▓▓▓▓░░  85%     │
+   │  Model Accuracy      │
+   │                      │
+   │  ▓▓▓▓▓▓░░░░  60%     │
+   │  ETL Automation      │
+   │                      │
+   │  ▓▓▓▓▓▓▓▓▓░  90%     │
+   │  SQL Proficiency     │
+   │                      │
+   │  ▓▓▓▓▓▓▓░░░  70%     │
+   │  ML Knowledge        │
+   │                      │
+   └──────────────────────┘
+```
+
+<br>
+
+<img src="https://img.shields.io/badge/FOCUS-Business_Intelligence-58a6ff?style=flat-square&amp;labelColor=0d1117" alt="Focus"/>
+<br>
+<img src="https://img.shields.io/badge/STATUS-Open_to_Opportunities-2ea44f?style=flat-square&amp;labelColor=0d1117" alt="Opportunities"/>
+
+</td>
+</tr>
+</table>
+
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<h2><samp>⟩ ~/tech_stack</samp></h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&amp;logo=platzi&amp;logoColor=white" alt="Platzi"/>
+<h4><samp>// LANGUAGES &amp; CORE</samp></h4>
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&amp;logo=python&amp;logoColor=58a6ff" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&amp;logo=postgresql&amp;logoColor=58a6ff" alt="SQL"/>
+<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&amp;logo=gnubash&amp;logoColor=58a6ff" alt="Bash"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&amp;logo=git&amp;logoColor=58a6ff" alt="Git"/>
+
+<h4><samp>// DATA SCIENCE &amp; ML</samp></h4>
+
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&amp;logo=pandas&amp;logoColor=58a6ff" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&amp;logo=numpy&amp;logoColor=58a6ff" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=58a6ff" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/SciPy-0d1117?style=for-the-badge&amp;logo=scipy&amp;logoColor=58a6ff" alt="SciPy"/>
+
+<h4><samp>// VISUALIZATION &amp; BI</samp></h4>
+
+<img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&amp;logo=powerbi&amp;logoColor=58a6ff" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&amp;logo=python&amp;logoColor=58a6ff" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&amp;logo=plotly&amp;logoColor=58a6ff" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&amp;logoColor=58a6ff" alt="Seaborn"/>
+
+<h4><samp>// DATABASES</samp></h4>
+
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&amp;logo=postgresql&amp;logoColor=58a6ff" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&amp;logo=mysql&amp;logoColor=58a6ff" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=58a6ff" alt="SQL Server"/>
+
+<h4><samp>// ENVIRONMENT</samp></h4>
+
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&amp;logo=linux&amp;logoColor=58a6ff" alt="Linux"/>
+<img src="https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&amp;logo=archlinux&amp;logoColor=58a6ff" alt="Arch Linux"/>
+<img src="https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&amp;logo=neovim&amp;logoColor=58a6ff" alt="Neovim"/>
+<img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&amp;logo=jupyter&amp;logoColor=58a6ff" alt="Jupyter"/>
 
 <br><br>
 
-| 📜 Certification / Course | 🏛️ Platform | 📅 Status |
-|:--------------------------|:-----------:|:---------:|
-| Python for Data Science | Platzi | ✅ Completed |
-| PostgreSQL for Data Science | Platzi | ✅ Completed |
-| Machine Learning Fundamentals | Platzi | 🔄 In Progress |
-| TensorFlow & Deep Learning | Platzi | 📋 Planned |
-| Data Engineering Basics | Platzi | 📋 Planned |
-
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
+<h4><samp>// CURRENTLY LOADING...</samp></h4>
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   🎯 85% accuracy on customer churn prediction model            │
-│   ⚡ 40% reduction in reporting time through automation         │
-│   📊 Daily ETL pipelines processing business-critical data      │
-│   🔍 OLAP cube analysis for strategic decision making           │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+[██████████████████████████████████████████████░░░░] 92% TensorFlow
+[████████████████████████████████░░░░░░░░░░░░░░░░░░] 64% Deep Learning
+[████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 48% Docker
 ```
 
 </div>
 
----
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## 📊 Weekly Development Breakdown
+<h2><samp>⟩ ~/projects</samp></h2>
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-```text
-Python       ████████████████░░░░░░░░░   64.00 %
-SQL          ██████████░░░░░░░░░░░░░░░   40.00 %
-Bash         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Markdown     ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
 ```
-<!--END_SECTION:waka-->
-
-<sub>📌 This is an estimated breakdown of my typical work week</sub>
-
-</div>
-
----
-
-## 🌐 Activity Graph
-
-<div align="center">
-
-<a href="https://github.com/Faridsz0605">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faridsz0605&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=c9d1d9&amp;area=true&amp;area_color=58a6ff&amp;hide_border=true&amp;custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
-</a>
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=github_dark" alt="Random Dev Quote"/>
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│  PROJECT                    DESCRIPTION                            STATUS      │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│  🔮 churn-predictor         ML model for customer retention        [COMPLETE]  │
+│     ├─ Accuracy: 85%        Identifies at-risk SaaS customers                   │
+│     └─ Stack: Python, Sklearn, Pandas                                           │
+│                                                                                 │
+│  📈 retail-dashboard        Automated BI reporting system          [COMPLETE]  │
+│     ├─ Impact: -40% report time                                                 │
+│     └─ Stack: SQL, PowerBI, Python                                              │
+│                                                                                 │
+│  🧹 data-quality-toolkit    Enterprise data validation suite       [ACTIVE]    │
+│     ├─ Features: Auto-profiling, cleaning                                       │
+│     └─ Stack: Python, Pandas, Great Expectations                                │
+│                                                                                 │
+│  🔐 log-analyzer            Security log analysis tool             [PLANNED]   │
+│     ├─ Purpose: Anomaly detection in system logs                                │
+│     └─ Stack: Python, ELK Stack                                                 │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
----
+<br>
 
-## 🤝 Let's Connect!
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
+<h3 align="center"><samp>🔮 churn-predictor</samp></h3>
 
-<p>
-  <em>I'm always interested in collaborating on data projects, discussing ML ideas, <br/>or just chatting about Linux and cybersecurity!</em>
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&amp;logo=python&amp;logoColor=58a6ff" alt="Python"/>
+<img src="https://img.shields.io/badge/-Sklearn-0d1117?style=flat-square&amp;logo=scikitlearn&amp;logoColor=58a6ff" alt="Sklearn"/>
+<img src="https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&amp;logo=pandas&amp;logoColor=58a6ff" alt="Pandas"/>
 </p>
+
+```python
+# Predictive model for SaaS churn
+accuracy = 0.85
+features = ["usage_freq", "support_tickets", 
+            "contract_length", "payment_delays"]
+impact = "Proactive customer retention"
+```
+
+<p align="center">
+<a href="https://github.com/Faridsz0605">
+  <img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&amp;logo=github&amp;logoColor=0d1117" alt="View"/>
+</a>
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center"><samp>📈 retail-dashboard</samp></h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-SQL-0d1117?style=flat-square&amp;logo=postgresql&amp;logoColor=58a6ff" alt="SQL"/>
+<img src="https://img.shields.io/badge/-PowerBI-0d1117?style=flat-square&amp;logo=powerbi&amp;logoColor=58a6ff" alt="PowerBI"/>
+<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&amp;logo=python&amp;logoColor=58a6ff" alt="Python"/>
+</p>
+
+```sql
+-- Automated ETL Pipeline
+-- Result: 40% faster reporting
+SELECT insights, decisions
+FROM data_warehouse
+WHERE business_value = 'HIGH'
+ORDER BY impact DESC;
+```
+
+<p align="center">
+<a href="https://github.com/Faridsz0605">
+  <img src="https://img.shields.io/badge/VIEW_REPO-58a6ff?style=for-the-badge&amp;logo=github&amp;logoColor=0d1117" alt="View"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<h2><samp>⟩ ~/stats</samp></h2>
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Faridsz0605&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faridsz0605&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+</picture>
+<!-- Top Languages Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Faridsz0605&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faridsz0605&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" height="165"/>
+</picture>
+
+<br>
+
+<!-- GitHub Streak Stats - Using demolab.com (official maintained version) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Faridsz0605&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" />
+  <img src="https://streak-stats.demolab.com?user=Faridsz0605&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak"/>
+</picture>
+
+<br><br>
+
+<!-- Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Faridsz0605&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Timeline" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faridsz0605&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Activity Graph"/>
+</picture>
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<h2><samp>⟩ ~/certifications</samp></h2>
+
+<div align="center">
+
+```
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                           LEARNING PATH                                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│   [✓] Python for Data Science ················· Platzi ········ COMPLETE    │
+│   [✓] PostgreSQL for Data Science ············· Platzi ········ COMPLETE    │
+│   [~] Machine Learning Fundamentals ··········· Platzi ········ PROGRESS    │
+│   [ ] TensorFlow & Deep Learning ·············· Platzi ········ QUEUED      │
+│   [ ] Data Engineering Basics ················· Platzi ········ QUEUED      │
+│   [ ] Linux System Administration ············· Self-study ···· QUEUED      │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
+
+<img src="https://img.shields.io/badge/Platzi-0d1117?style=for-the-badge&amp;logo=platzi&amp;logoColor=98CA3F" alt="Platzi"/>
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<h2><samp>⟩ ~/achievements</samp></h2>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   $ cat achievements.log                                                     ║
+║                                                                              ║
+║   [2024-XX-XX] 🎯 Achieved 85% accuracy on churn prediction model            ║
+║   [2024-XX-XX] ⚡ Reduced reporting time by 40% through automation           ║
+║   [2024-XX-XX] 📊 Deployed daily ETL pipelines for critical data             ║
+║   [2024-XX-XX] 🔍 Implemented OLAP analysis for strategic decisions          ║
+║   [ONGOING]    📚 Continuous learning: ML, Deep Learning, DevOps             ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<h2><samp>⟩ ~/weekly_stats</samp></h2>
+
+<div align="center">
+
+```
+Week Stats (Estimated)
+──────────────────────────────────────────────────────────────────
+Python          ████████████████████████████████░░░░░░░   64.00 %
+SQL             ████████████████████░░░░░░░░░░░░░░░░░░░   40.00 %
+Bash            ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   16.00 %
+PowerBI         ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Markdown        ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+──────────────────────────────────────────────────────────────────
+```
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<h2><samp>⟩ ~/connect</samp></h2>
+
+<div align="center">
+
+```
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│   $ echo "Let's grow together and try to change the world."                  │
+│                                                                              │
+│                                                                              │
+│   $ curl -X POST https://linkedin.com/in/faridsayago --data "connection"     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
 
 <br>
 
 <a href="https://www.linkedin.com/in/faridsayago/">
-  <img src="https://img.shields.io/badge/Let's_connect_on-LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-58a6ff?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0d1117" alt="Connect"/>
 </a>
 
 <br><br>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Faridsz0605&amp;color=58a6ff&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Faridsz0605&amp;style=for-the-badge&amp;color=58a6ff&amp;labelColor=0d1117&amp;label=VISITORS" alt="Profile Views"/>
 
 <br><br>
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:30363d&amp;height=120&amp;section=footer" width="100%" alt="Footer"/>
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                         "DATA BEATS OPINION"                                 ║
+║                                                                              ║
+║                    Session terminated. Goodbye! 👋                           ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <br>
 
-**"Data beats opinion."** 📊
-
-<br>
-
-<sub>⭐ From <a href="https://github.com/Faridsz0605">Faridsz0605</a> with 💙</sub>
+<sub><samp>⭐ Built with 💙 by <a href="https://github.com/Faridsz0605">Faridsz0605</a> | Last updated: 2024</samp></sub>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ END OF FILE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
