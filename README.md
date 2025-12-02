@@ -16,22 +16,20 @@ my main interests are linux, cybersec, AI & machine learning.
 &nbsp;
 <a href="https://www.google.com/search?q=https://github.com/Faridsz0605" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/PORTFOLIO-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Portfolio" />
-</a>
+<a/>
 &nbsp;
 <a href="https://x.com/farids0805" target="_blank">
 <img src="https://commons.wikimedia.org/wiki/File:X_icon.svg" alt="Contact" style="width: 50px; height: 50p/>
-</a>
+<a/>
+<p/>
   
-</p>
-
-🛠️ Tech Stack & Tools
 <p align="left">
+ <br>🛠️ Tech Stack & Tools<br>
   <img src="https://static.platzi.com/media/career-banner/badge-machine-learning.png" alt="Platzi Student Badge" style="width: 40px; height: 40px; margin: 0 10px;" />
   
   <img src="https://static.platzi.com/media/career-banner/badge-carrera-python.png" alt="Platzi Student Badge" style="width: 40px; height: 40px; margin: 0 10px;" />
- <img src="https://static.platzi.com/media/achievements/badge-postgresql-ciencia-datos-40e091bf-1d54-45e0-ada1-a2df4a5f1c95.png" alt="Platzi Student Badge" style="width: 40px; height: 40px; margin: 0 10px;" />
-  
-</p>
+ <img src="https://static.platzi.com/media/achievements/badge-postgresql-ciencia-datos-40e091bf-1d54-45e0-ada1-a2df4a5f1c95.png" alt="Platzi Student Badge" style="width: 40px; height: 40px; margin: 0 10px;" /> 
+<p/>
 <!-- Learning Status -->
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LOADING...-TENSORFLOW-FF6F00%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" />
