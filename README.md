@@ -1,4 +1,3 @@
-
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░ FARID SAYAGO ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -8,7 +7,7 @@
 <!-- Catppuccin Gradient Top Bar -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=26,27,28&height=2&section=header" width="100%" alt=""/>
 
-<br>
+<br/>
 
 ```
 
@@ -26,7 +25,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=B4BEFE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%24+ollama+run+deepseek-r1+--gpu;%24+kubectl+apply+-f+ml-pipeline.yaml;%24+ssh+arch%40homelab+--deploy-model" alt="Terminal Typing"/>
 </a>
 
-<br>
+<br/>
 
 <!-- Status Badges — Catppuccin Lavender -->
 <img src="https://img.shields.io/badge/AI_ENGINEER-b4befe?style=flat-square&labelColor=1e1e2e" alt="Role"/>
@@ -51,18 +50,18 @@
 user:
   name: "Farid Sayago"
   role: "AI Engineer"
-  tagline: "Building intelligent systems on rock-solid Linux infrastructure"
+  tagline: "The world is full of knowledge, make it yours."
   status: "Open to opportunities"
-  os: "Arch Linux (btw)"
+  os: "Arch Linux (btw) ;)"
 
 focus:
-  - "AI/ML model development & deployment"
+  - "AI/ML model production & deployment"
   - "LLM integration & RAG pipelines"
   - "DevOps & cloud infrastructure (AWS)"
   - "Kubernetes orchestration & containerization"
   - "Linux system administration"
 
-philosophy: "Nunca pares de aprender."
+philosophy: "Don't stop learning"
 ```
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
@@ -171,12 +170,12 @@ philosophy: "Nunca pares de aprender."
 ```
 ╭──────────────────────────────────────────────────────────────────────────────╮
 │                                                                              │
-│   $ echo "Building intelligent systems on rock-solid infrastructure."        │
+│   $ echo "The world is full of knowledge, make it yours."                    │
 │                                                                              │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 ```
 
-<br>
+<br/>
 
 <!-- Socials — Catppuccin styled -->
 <a href="https://www.linkedin.com/in/faridsayago/">
@@ -200,7 +199,7 @@ philosophy: "Nunca pares de aprender."
 
 <img src="https://komarev.com/ghpvc/?username=Faridsz0605&style=flat-square&color=b4befe&labelColor=1e1e2e&label=VISITORS" alt="Profile Views"/>
 
-<br><br>
+<br/><br/>
 
 <sub><samp>Built on Arch Linux, btw. | <a href="https://github.com/Faridsz0605">Faridsz0605</a></samp></sub>
 
