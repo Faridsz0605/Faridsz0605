@@ -191,7 +191,7 @@ philosophy: "Don't stop learning"
 </a>
 &nbsp;
 <!-- TODO: Add portfolio URL below -->
-<a href="#">
+<a href="https://faridsz0605.github.io/portfolio-3d/">
   <img src="https://img.shields.io/badge/Portfolio-1e1e2e?style=for-the-badge&logo=googlechrome&logoColor=94e2d5" alt="Portfolio"/>
 </a>
 
@@ -201,7 +201,7 @@ philosophy: "Don't stop learning"
 
 <br/><br/>
 
-<sub><samp>Built on Arch Linux, btw. | <a href="https://github.com/Faridsz0605">Faridsz0605</a></samp></sub>
+<sub><samp>Built on Arch Linux, btw. ;) | <a href="https://github.com/Faridsz0605">Faridsz0605</a></samp></sub>
 
 </div>
 
