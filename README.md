@@ -191,7 +191,7 @@ philosophy: "Don't stop learning"
 </a>
 &nbsp;
 <!-- TODO: Add portfolio URL below -->
-<a href="https://faridsz0605.github.io/portfolio-3d/">
+<a href="https://sayagos.tech/">
   <img src="https://img.shields.io/badge/Portfolio-1e1e2e?style=for-the-badge&logo=googlechrome&logoColor=94e2d5" alt="Portfolio"/>
 </a>
 
