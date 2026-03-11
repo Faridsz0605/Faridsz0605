@@ -143,21 +143,23 @@ philosophy: "Don't stop learning"
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Faridsz0605&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=b4befe&icon_color=fab387&text_color=cdd6f4&ring_color=b4befe" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Faridsz0605&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=b4befe&icon_color=fab387&text_color=cdd6f4&ring_color=b4befe" alt="GitHub Stats" height="165"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Faridsz0605&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4&langs_count=6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faridsz0605&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4&langs_count=6" alt="Top Languages" height="165"/>
-</picture>
+<div align="center">
 
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faridsz0605&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&rank_icon=github)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Faridsz0605&hide_border=true&background=1E1E2E&stroke=313244&ring=B4BEFE&fire=FAB387&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=B4BEFE&sideLabels=B4BEFE&dates=CDD6F4" />
-  <img src="https://streak-stats.demolab.com?user=Faridsz0605&hide_border=true&background=1E1E2E&stroke=313244&ring=B4BEFE&fire=FAB387&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=B4BEFE&sideLabels=B4BEFE&dates=CDD6F4" alt="GitHub Streak"/>
-</picture>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faridsz0605&layout=compact&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Faridsz0605&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6366f1&sideLabels=6366f1&dates=6b7280)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Faridsz0605&style=flat-square&color=6366f1&labelColor=1e1e2e&label=VIEWS)](https://github.com/Faridsz0605)
+
+*Farid Sayago · [sayagos.tech](https://sayagos.tech) · Bogotá, Colombia*
 
 </div>
 
