@@ -115,28 +115,29 @@ philosophy: "Think by yourself use AI as a tool. And your brain as your hands."
 
 <h2><samp>⟩ ~/projects</samp></h2>
 
-<!-- TODO: Replace placeholder projects with actual repos once built -->
-
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  PROJECT                    DESCRIPTION                          STATUS    │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  ai-deployment-pipeline     K8s-based ML model serving           [TODO]    │
-│     └─ Stack: Python, Docker, Kubernetes, AWS                               │
-│                                                                             │
-│  rag-knowledge-base         RAG system with local LLMs           [TODO]    │
-│     └─ Stack: LangChain, Ollama, ChromaDB                                   │
-│                                                                             │
-│  homelab-infra              IaC for personal Linux homelab       [TODO]    │
-│     └─ Stack: Terraform, Ansible, Arch Linux                                │
-│                                                                             │
-│  llm-fine-tuner             Fine-tuning pipeline for OSS models  [TODO]    │
-│     └─ Stack: PyTorch, HuggingFace, PEFT/LoRA                              │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  PROJECT              DESCRIPTION                                 STATUS    │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│  wiener-API           RESTful CRUD backend (auth, media, CDN)     [WIP]     │
+│     └─ Stack: FastAPI, SQLAlchemy, JWT, ImageKit                             │
+│                                                                              │
+│  wiener-snake         Snake AI via reinforcement learning         [DONE]    │
+│     └─ Stack: PyTorch, Pygame, CPU-only RL                                   │
+│                                                                              │
+│  Wiener-git           Git clone built from scratch                [WIP]     │
+│     └─ Stack: Python                                                         │
+│                                                                              │
+│  wiener-tickets       Full MLOps datascience pipeline             [TODO]    │
+│     └─ Stack: TBD                                                            │
+│                                                                              │
+│  whttp                HTTP server from scratch                    [TODO]    │
+│     └─ Stack: C                                                              │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -147,23 +148,11 @@ philosophy: "Think by yourself use AI as a tool. And your brain as your hands."
 
 <div align="center">
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faridsz0605&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=b4befe&icon_color=cba6f7&text_color=cdd6f4&rank_icon=github)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faridsz0605&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faridsz0605&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4&langs_count=8&exclude_repo=Faridsz0605,hello-world,SEMEC)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faridsz0605&layout=compact&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Faridsz0605&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6366f1&sideLabels=6366f1&dates=6b7280)
-
-</div>
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Faridsz0605&style=flat-square&color=6366f1&labelColor=1e1e2e&label=VIEWS)](https://github.com/Faridsz0605)
-
-*Farid Sayago · [sayagos.tech](https://sayagos.tech) · Bogotá, Colombia*
+![GitHub Streak](https://streak-stats.demolab.com?user=Faridsz0605&hide_border=true&background=1e1e2e&stroke=b4befe&ring=cba6f7&fire=fab387&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=b4befe&sideLabels=b4befe&dates=6c7086)
 
 </div>
 
@@ -196,7 +185,6 @@ philosophy: "Think by yourself use AI as a tool. And your brain as your hands."
   <img src="https://img.shields.io/badge/X-1e1e2e?style=for-the-badge&logo=x&logoColor=b4befe" alt="X"/>
 </a>
 &nbsp;
-<!-- TODO: Add portfolio URL below -->
 <a href="https://sayagos.tech/">
   <img src="https://img.shields.io/badge/Portfolio-1e1e2e?style=for-the-badge&logo=googlechrome&logoColor=94e2d5" alt="Portfolio"/>
 </a>
