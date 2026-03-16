@@ -26,7 +26,6 @@
 </a>
 
 <br/>
-
 <!-- Status Badges — Catppuccin Lavender -->
 <img src="https://img.shields.io/badge/AI_ENGINEER-b4befe?style=flat-square&labelColor=1e1e2e" alt="Role"/>
 &nbsp;
@@ -36,6 +35,11 @@
 
 </div>
 
+> [!Note]
+>  I am a professional whose intent its to contribute to comunity, enterprise & open source, following that idea coding agents are used for stetical/functional/repetitive tasks or automation. Although the source code its completely written by humans (me).
+> The main goal its to ship functional yet easy to mantain code for reliable projects on strong based companies.
+
+<br />
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <br>
@@ -61,7 +65,7 @@ focus:
   - "Kubernetes orchestration & containerization"
   - "Linux system administration"
 
-philosophy: "Don't stop learning"
+philosophy: "Think by yourself use AI as a tool. And your brain as your hands."
 ```
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
