@@ -22,11 +22,11 @@
 
 <!-- Language Switch -->
 <a href="./README.md">
-  <img src="https://img.shields.io/badge/English-b4befe?style=flat-square&labelColor=1e1e2e" alt="English"/>
+  <img src="https://img.shields.io/badge/English-94e2d5?style=flat-square&labelColor=1e1e2e" alt="English"/>
 </a>
 &nbsp;
 <a href="./README.es.md">
-  <img src="https://img.shields.io/badge/Espa%C3%B1ol-94e2d5?style=flat-square&labelColor=1e1e2e" alt="Español"/>
+  <img src="https://img.shields.io/badge/Espa%C3%B1ol-b4befe?style=flat-square&labelColor=1e1e2e" alt="Español"/>
 </a>
 
 <br/><br/>
@@ -47,59 +47,59 @@
 </div>
 
 > [!Note]
-> I use coding agents for UI polish, repetitive changes, and automation. Architecture, reviews, and final code decisions stay with me. My goal is simple: ship reliable systems that teams can maintain after the first demo.
+> Uso agentes de código para pulir interfaces, repetir cambios mecánicos y automatizar tareas. La arquitectura, las revisiones y las decisiones finales de código siguen siendo mías. Mi objetivo es simple: entregar sistemas confiables que los equipos puedan mantener después de la primera demo.
 
 <br />
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <br>
 
-<h2><samp>⟩ ~/about</samp></h2>
+<h2><samp>⟩ ~/sobre_mi</samp></h2>
 
 ```yaml
 # ══════════════════════════════════════════════════
 # ~/.config/farid/identity.yml
 # ══════════════════════════════════════════════════
 
-user:
-  name: "Farid Sayago"
-  role: "Data Scientist | Architecture Engineer | MLOps"
-  tagline: "I turn data, automation, and infrastructure into systems people can actually use."
-  status: "Open to opportunities"
-  location: "Bogota, Colombia"
+usuario:
+  nombre: "Farid Sayago"
+  rol: "Data Scientist | Architecture Engineer | MLOps"
+  lema: "Convierto datos, automatización e infraestructura en sistemas que la gente sí puede usar."
+  estado: "Abierto a oportunidades"
+  ubicacion: "Bogota, Colombia"
   os: "Arch Linux (btw) ;)"
 
-current:
-  company: "Kimberly-Clark Professional"
-  role: "Business Insights Trainee"
-  work: "commercial insights, automated pipelines, BI dashboards, AI workflows"
+actual:
+  empresa: "Kimberly-Clark Professional"
+  rol: "Business Insights Trainee"
+  trabajo: "insights comerciales, pipelines automáticos, dashboards BI, flujos con IA"
 
-focus:
-  - "Data science with Python, SQL, Pandas, and Power BI"
-  - "ETL pipelines, OLAP reporting, and dashboard automation"
-  - "Machine learning systems, model deployment, and MLOps"
-  - "Self-hosted infrastructure, Kubernetes, containers, and cloud tooling"
-  - "Readable architecture that keeps projects maintainable"
+enfoque:
+  - "Ciencia de datos con Python, SQL, Pandas y Power BI"
+  - "Pipelines ETL, reportes OLAP y automatización de dashboards"
+  - "Sistemas de machine learning, despliegue de modelos y MLOps"
+  - "Infraestructura self-hosted, Kubernetes, contenedores y cloud tooling"
+  - "Arquitectura legible para mantener proyectos vivos"
 
-impact:
-  - "Saved 40+ hours per month by automating manual reporting"
-  - "Built reporting workflows for operations across 14 countries"
-  - "Processed 24M+ rows in applied econometric research"
-  - "Turned messy business data into dashboards people used"
+impacto:
+  - "Ahorré 40+ horas al mes automatizando reportes manuales"
+  - "Construí flujos de reporting para operaciones en 14 países"
+  - "Procesé 24M+ filas en investigación econométrica aplicada"
+  - "Convertí datos desordenados de negocio en dashboards que sí se usaron"
 
-certifications:
+certificaciones:
   - "Data Engineer"
   - "IBM Python"
   - "Data Scientist"
   - "AI Software Engineer"
-  - "Data Analysis and Visualization"
+  - "Análisis y Visualización de Datos"
 
-philosophy: "Use AI as a tool. Keep judgment, taste, and ownership human."
+filosofia: "Usa la IA como herramienta. Mantén el criterio, el gusto y la responsabilidad en manos humanas."
 ```
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-<h2><samp>⟩ ~/tech_stack</samp></h2>
+<h2><samp>⟩ ~/stack_tecnico</samp></h2>
 
 <div align="center">
 
@@ -152,28 +152,28 @@ philosophy: "Use AI as a tool. Keep judgment, taste, and ownership human."
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-<h2><samp>⟩ ~/projects</samp></h2>
+<h2><samp>⟩ ~/proyectos</samp></h2>
 
 <div align="center">
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  PROJECT              DESCRIPTION                                 STATUS    │
+│  PROYECTO             DESCRIPCIÓN                                 ESTADO    │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
-│  wiener-API           RESTful CRUD backend (auth, media, CDN)     [WIP]     │
+│  wiener-API           Backend RESTful CRUD (auth, media, CDN)     [WIP]     │
 │     └─ Stack: FastAPI, SQLAlchemy, JWT, ImageKit                             │
 │                                                                              │
-│  wiener-snake         Snake AI via reinforcement learning         [DONE]    │
+│  wiener-snake         Snake AI con reinforcement learning         [DONE]    │
 │     └─ Stack: PyTorch, Pygame, CPU-only RL                                   │
 │                                                                              │
-│  Wiener-git           Git clone built from scratch                [WIP]     │
+│  Wiener-git           Clon de Git construido desde cero           [WIP]     │
 │     └─ Stack: Python                                                         │
 │                                                                              │
-│  wiener-tickets       Full MLOps data science pipeline            [TODO]    │
+│  wiener-tickets       Pipeline completo de data science y MLOps   [TODO]    │
 │     └─ Stack: TBD                                                            │
 │                                                                              │
-│  whttp                HTTP server from scratch                    [TODO]    │
+│  whttp                Servidor HTTP desde cero                    [TODO]    │
 │     └─ Stack: C                                                              │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
@@ -204,7 +204,7 @@ philosophy: "Use AI as a tool. Keep judgment, taste, and ownership human."
 ```
 ╭──────────────────────────────────────────────────────────────────────────────╮
 │                                                                              │
-│   $ echo "Make knowledge usable. Then make it reliable."                    │
+│   $ echo "Haz que el conocimiento se pueda usar. Luego hazlo confiable."    │
 │                                                                              │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 ```
