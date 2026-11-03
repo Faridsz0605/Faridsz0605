@@ -1,115 +1,93 @@
 <svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Farid Sayago · Data Scientist</title>
-  <desc id="desc">Banner oscuro de sistemas de datos con grilla azul, grafo, paneles de terminal y tecnologías.</desc>
+  <title id="title">Farid Sayago · Ingeniero de Datos · Cloud e Infraestructura</title>
+  <desc id="desc">Banner con panel azul petróleo, acentos naranja y un panel verde de hoja con gotas de agua. Titular: Cloud e infra para datos que fluyen. Palabras clave: AWS, IaC, Kubernetes, CI/CD, ETL, Snowflake.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#020817"/>
-      <stop offset="0.46" stop-color="#061226"/>
-      <stop offset="1" stop-color="#020817"/>
+    <clipPath id="card"><rect width="1200" height="400" rx="18"/></clipPath>
+    <linearGradient id="navy" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1b2d3e"/>
+      <stop offset="1" stop-color="#0f1b27"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(820 150) rotate(121) scale(430 250)">
-      <stop stop-color="#008cff" stop-opacity="0.36"/>
-      <stop offset="1" stop-color="#020817" stop-opacity="0"/>
+    <linearGradient id="leaf" x1="800" y1="400" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1f3d2b"/>
+      <stop offset="0.55" stop-color="#3f6b45"/>
+      <stop offset="1" stop-color="#6f9a63"/>
+    </linearGradient>
+    <radialGradient id="drop" cx="0.35" cy="0.3" r="0.85">
+      <stop stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#cfe3d2" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#0f1b27" stop-opacity="0.35"/>
     </radialGradient>
-    <linearGradient id="lineBlue" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#2563eb"/>
-    </linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" stroke="#123154" stroke-width="1" opacity="0.45"/>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#2c4357"/>
     </pattern>
-    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
     <style>
-      .serif{font-family:Georgia,'Times New Roman',serif}.mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,monospace}.blue{fill:#38bdf8}.soft{fill:#dbeafe}.muted{fill:#8aa4c3}.line{stroke:#1d4ed8;stroke-width:1.2;opacity:.68}.chip{fill:#071427;stroke:#1d4ed8;stroke-width:1}.chipText{fill:#e5edf8;font-size:14px}.label{fill:#38bdf8;font-size:15px;letter-spacing:5px}.small{fill:#93a4bc;font-size:12px}.node{fill:#38bdf8;filter:url(#softGlow)}
+      .head{font-family:'Space Grotesk','Rajdhani','Segoe UI','Helvetica Neue',Arial,sans-serif;font-weight:600}
+      .mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,monospace}
+      .white{fill:#e3e8ec}.orange{fill:#f47b20}.muted{fill:#8fa3b3}
+      .tag{font-size:11px;letter-spacing:3px;fill:#f47b20}
+      .chip{fill:#14232f;stroke:#2c4357;stroke-width:1}
+      .chipHot{fill:#f47b20;stroke:#f47b20;stroke-width:1}
+      .chipText{fill:#e3e8ec;font-size:14px;text-anchor:middle}
+      .chipHotText{fill:#0f1b27;font-size:14px;font-weight:700;text-anchor:middle}
     </style>
   </defs>
 
-  <rect width="1200" height="400" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="400" rx="18" fill="url(#grid)" opacity="0.42"/>
-  <rect width="1200" height="400" rx="18" fill="url(#glow)"/>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="400" fill="url(#navy)"/>
+    <rect width="1200" height="400" fill="url(#dots)" opacity="0.5"/>
 
-  <g opacity="0.75">
-    <circle cx="18" cy="66" r="1.7" fill="#2ea8ff"/><circle cx="32" cy="66" r="1.7" fill="#2ea8ff"/><circle cx="46" cy="66" r="1.7" fill="#2ea8ff"/>
-    <circle cx="18" cy="80" r="1.7" fill="#2ea8ff"/><circle cx="32" cy="80" r="1.7" fill="#2ea8ff"/><circle cx="46" cy="80" r="1.7" fill="#2ea8ff"/>
-    <circle cx="18" cy="94" r="1.7" fill="#2ea8ff"/><circle cx="32" cy="94" r="1.7" fill="#2ea8ff"/><circle cx="46" cy="94" r="1.7" fill="#2ea8ff"/>
-  </g>
-  <path d="M64 48V137" stroke="#1d8cff" stroke-width="1.7" opacity="0.85"/>
-
-  <text x="94" y="106" class="serif soft" font-size="54" letter-spacing="-1.4">Farid Sayago · Data Scientist</text>
-  <text x="96" y="139" class="mono soft" font-size="17" letter-spacing="1.4">Data Science  •  MLOps  •  Ingeniería de Arquitectura</text>
-
-  <g transform="translate(96 180)">
-    <text class="mono label">HABILIDADES</text>
-    <path d="M132 -5H287" stroke="#285d91"/><circle cx="290" cy="-5" r="2.2" fill="#38bdf8"/>
-    <g transform="translate(0 26)">
-      <rect width="238" height="48" rx="8" fill="#06162a" stroke="#173a63"/>
-      <text x="18" y="30" class="mono chipText">Administración Linux</text>
+    <path d="M860 0H1200V400H780Z" fill="url(#leaf)"/>
+    <g stroke="#cfe3d2" stroke-width="1.4" opacity="0.22" fill="none">
+      <path d="M800 400C900 300 1000 200 1130 30"/>
+      <path d="M870 335C925 330 985 305 1040 268"/>
+      <path d="M930 280C985 280 1040 255 1085 215"/>
+      <path d="M985 215C1030 210 1075 185 1110 150"/>
+      <path d="M1040 150C1075 145 1110 120 1135 90"/>
+      <path d="M880 360C905 345 925 325 940 300"/>
     </g>
-    <g transform="translate(256 26)">
-      <rect width="137" height="48" rx="8" fill="#06162a" stroke="#173a63"/>
-      <text x="18" y="30" class="mono chipText">ML Design</text>
+    <g opacity="0.95">
+      <g><circle cx="1010" cy="90" r="38" fill="url(#drop)" stroke="#e8f3ea" stroke-opacity="0.45"/><ellipse cx="998.6" cy="74.8" rx="10.6" ry="6.8" fill="#fff" opacity="0.75"/></g>
+      <g><circle cx="1110" cy="215" r="46" fill="url(#drop)" stroke="#e8f3ea" stroke-opacity="0.45"/><ellipse cx="1096" cy="196.6" rx="12.9" ry="8.3" fill="#fff" opacity="0.75"/></g>
+      <g><circle cx="930" cy="255" r="26" fill="url(#drop)" stroke="#e8f3ea" stroke-opacity="0.45"/><ellipse cx="922.2" cy="244.6" rx="7.3" ry="4.7" fill="#fff" opacity="0.75"/></g>
+      <g><circle cx="1050" cy="335" r="34" fill="url(#drop)" stroke="#e8f3ea" stroke-opacity="0.45"/><ellipse cx="1039.8" cy="321.4" rx="9.5" ry="6.1" fill="#fff" opacity="0.75"/></g>
+      <g><circle cx="900" cy="115" r="11" fill="url(#drop)" stroke="#e8f3ea" stroke-opacity="0.45"/><ellipse cx="896.7" cy="110.6" rx="3.1" ry="2" fill="#fff" opacity="0.75"/></g>
+      <g><circle cx="1150" cy="95" r="13" fill="url(#drop)" stroke="#e8f3ea" stroke-opacity="0.45"/><ellipse cx="1146.1" cy="89.8" rx="3.6" ry="2.3" fill="#fff" opacity="0.75"/></g>
+      <g><circle cx="975" cy="190" r="16" fill="url(#drop)" stroke="#e8f3ea" stroke-opacity="0.45"/><ellipse cx="970.2" cy="183.6" rx="4.5" ry="2.9" fill="#fff" opacity="0.75"/></g>
+      <g><circle cx="1160" cy="335" r="10" fill="url(#drop)" stroke="#e8f3ea" stroke-opacity="0.45"/><ellipse cx="1157" cy="331" rx="2.8" ry="1.8" fill="#fff" opacity="0.75"/></g>
+      <g><circle cx="965" cy="365" r="9" fill="url(#drop)" stroke="#e8f3ea" stroke-opacity="0.45"/><ellipse cx="962.3" cy="361.7" rx="2.5" ry="1.6" fill="#fff" opacity="0.75"/></g>
     </g>
-    <g transform="translate(411 26)">
-      <rect width="210" height="48" rx="8" fill="#06162a" stroke="#173a63"/>
-      <text x="18" y="30" class="mono chipText">Infraestructura Cloud</text>
-    </g>
-    <g transform="translate(639 26)">
-      <rect width="188" height="48" rx="8" fill="#06162a" stroke="#173a63"/>
-      <text x="18" y="30" class="mono chipText">Git y Versionado</text>
-    </g>
+    <path d="M860 0L780 400" stroke="#f47b20" stroke-width="2"/>
+
+    <path d="M0 132L56 0" stroke="#f47b20" stroke-width="1.6"/>
+    <path d="M0 64L150 0" stroke="#e3e8ec" stroke-width="1.2" opacity="0.7"/>
   </g>
 
-  <g transform="translate(96 285)">
-    <text class="mono label">TECNOLOGÍAS</text>
-    <path d="M154 -5H266" stroke="#285d91"/><circle cx="269" cy="-5" r="2.2" fill="#38bdf8"/>
-    <g transform="translate(0 24)"><rect class="chip" width="86" height="35" rx="7"/><text x="18" y="23" class="mono chipText">Python</text></g>
-    <g transform="translate(98 24)"><rect class="chip" width="68" height="35" rx="7"/><text x="18" y="23" class="mono chipText">SQL</text></g>
-    <g transform="translate(178 24)"><rect class="chip" width="74" height="35" rx="7"/><text x="18" y="23" class="mono chipText">AWS</text></g>
-    <g transform="translate(264 24)"><rect class="chip" width="93" height="35" rx="7"/><text x="18" y="23" class="mono chipText">PyTorch</text></g>
-    <g transform="translate(369 24)"><rect class="chip" width="91" height="35" rx="7"/><text x="18" y="23" class="mono chipText">Docker</text></g>
-    <g transform="translate(472 24)"><rect class="chip" width="121" height="35" rx="7"/><text x="18" y="23" class="mono chipText">Kubernetes</text></g>
-    <g transform="translate(605 24)"><rect class="chip" width="92" height="35" rx="7"/><text x="18" y="23" class="mono chipText">FastAPI</text></g>
-    <g transform="translate(709 24)"><rect class="chip" width="118" height="35" rx="7"/><text x="18" y="23" class="mono chipText">PostgreSQL</text></g>
+  <text x="96" y="56" class="mono tag">FARID SAYAGO  /  INGENIERO DE DATOS  /  CLOUD E INFRA</text>
+
+  <text x="96" y="112" class="head white" font-size="54" textLength="430" lengthAdjust="spacingAndGlyphs">CLOUD E INFRA</text>
+  <text x="96" y="168" class="head white" font-size="54" textLength="462" lengthAdjust="spacingAndGlyphs">PARA DATOS QUE</text>
+  <text x="576" y="168" class="head orange" font-size="54" textLength="198" lengthAdjust="spacingAndGlyphs">FLUYEN</text>
+
+  <text x="96" y="204" class="mono muted" font-size="14" letter-spacing="1.6">AWS <tspan class="orange">/</tspan> IaC <tspan class="orange">/</tspan> Kubernetes <tspan class="orange">/</tspan> CI-CD <tspan class="orange">/</tspan> ETL <tspan class="orange">/</tspan> Snowflake</text>
+
+  <text x="96" y="240" class="mono tag">// CLOUD E INFRA</text>
+  <g transform="translate(96 250)">
+    <g><rect class="chipHot" width="60" height="32" rx="7"/><text x="30" y="21" class="mono chipHotText">AWS</text></g>
+    <g transform="translate(70 0)"><rect class="chip" width="108" height="32" rx="7"/><text x="54" y="21" class="mono chipText">Terraform</text></g>
+    <g transform="translate(188 0)"><rect class="chip" width="116" height="32" rx="7"/><text x="58" y="21" class="mono chipText">Kubernetes</text></g>
+    <g transform="translate(314 0)"><rect class="chip" width="82" height="32" rx="7"/><text x="41" y="21" class="mono chipText">Docker</text></g>
+    <g transform="translate(406 0)"><rect class="chip" width="150" height="32" rx="7"/><text x="75" y="21" class="mono chipText">GitHub Actions</text></g>
+    <g transform="translate(566 0)"><rect class="chip" width="74" height="32" rx="7"/><text x="37" y="21" class="mono chipText">Linux</text></g>
   </g>
 
-  <g transform="translate(96 358)">
-    <text class="mono label">CERTIFICACIONES</text>
-    <path d="M205 -5H319" stroke="#285d91"/><circle cx="322" cy="-5" r="2.2" fill="#38bdf8"/>
-    <text x="0" y="32" class="mono soft" font-size="14">AI Software Engineer</text>
-    <path d="M170 11V36" stroke="#285d91"/>
-    <text x="190" y="32" class="mono soft" font-size="14">Data Engineer</text>
-    <path d="M318 11V36" stroke="#285d91"/>
-    <text x="338" y="32" class="mono soft" font-size="14">IBM Python</text>
+  <text x="96" y="306" class="mono tag">// DATOS</text>
+  <g transform="translate(96 316)">
+    <g><rect class="chip" width="84" height="32" rx="7"/><text x="42" y="21" class="mono chipText">Python</text></g>
+    <g transform="translate(94 0)"><rect class="chip" width="60" height="32" rx="7"/><text x="30" y="21" class="mono chipText">SQL</text></g>
+    <g transform="translate(164 0)"><rect class="chip" width="110" height="32" rx="7"/><text x="55" y="21" class="mono chipText">Snowflake</text></g>
+    <g transform="translate(284 0)"><rect class="chip" width="100" height="32" rx="7"/><text x="50" y="21" class="mono chipText">Power BI</text></g>
+    <g transform="translate(394 0)"><rect class="chip" width="118" height="32" rx="7"/><text x="59" y="21" class="mono chipText">PostgreSQL</text></g>
   </g>
 
-  <g opacity="0.86">
-    <path class="line" d="M705 99L747 70L784 102L833 63L876 111L924 71L974 96L1027 60"/>
-    <path class="line" d="M747 70L794 142L876 111L974 96"/>
-    <path class="line" d="M784 102L833 63L924 71"/>
-    <circle class="node" cx="705" cy="99" r="3"/><circle class="node" cx="747" cy="70" r="3"/><circle class="node" cx="784" cy="102" r="3"/><circle class="node" cx="833" cy="63" r="3"/><circle class="node" cx="876" cy="111" r="3"/><circle class="node" cx="924" cy="71" r="3"/><circle class="node" cx="974" cy="96" r="3"/><circle class="node" cx="1027" cy="60" r="3"/><circle class="node" cx="794" cy="142" r="3"/>
-  </g>
-
-  <g opacity="0.85">
-    <path d="M660 288C742 221 812 219 895 271C971 318 1052 290 1166 229" stroke="url(#lineBlue)" stroke-width="2.2" fill="none" filter="url(#softGlow)"/>
-    <path d="M660 303C741 239 817 238 899 287C973 330 1056 304 1166 247" stroke="#1d4ed8" stroke-width="1" fill="none" opacity="0.75"/>
-    <path d="M660 319C739 257 818 256 898 302C975 346 1056 322 1166 268" stroke="#0ea5e9" stroke-width="1" fill="none" opacity="0.55"/>
-    <path d="M660 335C738 275 818 274 899 318C974 360 1058 342 1166 289" stroke="#2563eb" stroke-width="1" fill="none" opacity="0.48"/>
-  </g>
-
-  <g transform="translate(1010 158)">
-    <rect width="145" height="98" rx="10" fill="#071427" stroke="#1d4ed8" opacity="0.9"/>
-    <circle cx="16" cy="16" r="3" fill="#38bdf8"/><path d="M28 16H42" stroke="#38bdf8"/>
-    <path d="M18 38H74M18 51H95M18 64H64M18 77H111" stroke="#2f6fb5" stroke-width="1.4"/>
-  </g>
-  <g transform="translate(1068 254)">
-    <rect width="116" height="65" rx="8" fill="#071427" stroke="#1d4ed8" opacity="0.9"/>
-    <path d="M16 48L38 29L58 40L78 22L102 11" stroke="#38bdf8" stroke-width="2" fill="none"/>
-    <circle cx="38" cy="29" r="3" fill="#38bdf8"/><circle cx="58" cy="40" r="3" fill="#38bdf8"/><circle cx="78" cy="22" r="3" fill="#38bdf8"/><circle cx="102" cy="11" r="3" fill="#38bdf8"/>
-  </g>
+  <text x="96" y="380" class="mono muted" font-size="12" textLength="660" lengthAdjust="spacing"><tspan class="orange">CERTS</tspan>  Cloud &amp; DevOps Fundamentals · Data Engineer · AI Software Engineer · IBM Python</text>
 </svg>
